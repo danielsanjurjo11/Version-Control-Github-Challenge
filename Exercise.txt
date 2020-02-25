@@ -1,16 +1,17 @@
 A. Explain what the terminal is in your own words.
 
-
+commands what a computer does.
 
 B. What is the major difference between Git and Github?
 
-
+git is the local branch thats within your computer.
+github is the main server that everyone is on to stay in sink while coding.
 
 
 
 C. Why do we use Github?
 
-
+it makes is easier to work with others on projects that take multiple people at a time to work on keeping everyone in sync with the projects changes.
 
 
 
