@@ -1,0 +1,18 @@
+A. Explain what the terminal is in your own words.
+
+
+
+B. What is the major difference between Git and Github?
+
+
+
+
+
+C. Why do we use Github?
+
+
+
+
+
+
+ 
